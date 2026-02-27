@@ -1,0 +1,6 @@
+body, img, p, fieldset, legend,label, input, select, textarea, button {
+    /* resetar configurações padrão */
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
